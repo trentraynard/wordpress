@@ -1,2 +1,0 @@
-<?php
-// fuck off
